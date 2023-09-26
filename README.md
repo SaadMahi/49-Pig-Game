@@ -1,3 +1,3 @@
 # 49-Pig-Game
 
-![Project](images/final-project.PNG)
+![Project](./images/final-project.PNG)
