@@ -1,2 +1,3 @@
 # [🎲 Pig-Game 🐷](https://saadmahi.github.io/49-Pig-Game/)
-![final-project](https://github.com/SaadMahi/49-Pig-Game/assets/117567622/c1db16c8-8002-45a6-b908-92bdbac06c32)
+![pig-game](https://github.com/SaadMahi/49-Pig-Game/assets/117567622/8e971ac3-efe2-4811-b0fa-a6cadecdadf9)
+
